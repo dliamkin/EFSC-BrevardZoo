@@ -1,0 +1,16 @@
+C:\Development\EFSC-BrevardZoo\EFSC-BrevardZoo\EFSC-BrevardZoo\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Development\EFSC-BrevardZoo\EFSC-BrevardZoo\EFSC-BrevardZoo\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Development\EFSC-BrevardZoo\EFSC-BrevardZoo\EFSC-BrevardZoo\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Development\EFSC-BrevardZoo\EFSC-BrevardZoo\EFSC-BrevardZoo\bin\Debug\netcoreapp2.1\EFSC-BrevardZoo.deps.json
+C:\Development\EFSC-BrevardZoo\EFSC-BrevardZoo\EFSC-BrevardZoo\bin\Debug\netcoreapp2.1\EFSC-BrevardZoo.runtimeconfig.json
+C:\Development\EFSC-BrevardZoo\EFSC-BrevardZoo\EFSC-BrevardZoo\bin\Debug\netcoreapp2.1\EFSC-BrevardZoo.runtimeconfig.dev.json
+C:\Development\EFSC-BrevardZoo\EFSC-BrevardZoo\EFSC-BrevardZoo\bin\Debug\netcoreapp2.1\EFSC-BrevardZoo.dll
+C:\Development\EFSC-BrevardZoo\EFSC-BrevardZoo\EFSC-BrevardZoo\bin\Debug\netcoreapp2.1\EFSC-BrevardZoo.pdb
+C:\Development\EFSC-BrevardZoo\EFSC-BrevardZoo\EFSC-BrevardZoo\obj\Debug\netcoreapp2.1\EFSC-BrevardZoo.csprojAssemblyReference.cache
+C:\Development\EFSC-BrevardZoo\EFSC-BrevardZoo\EFSC-BrevardZoo\obj\Debug\netcoreapp2.1\EFSC-BrevardZoo.RazorAssemblyInfo.cache
+C:\Development\EFSC-BrevardZoo\EFSC-BrevardZoo\EFSC-BrevardZoo\obj\Debug\netcoreapp2.1\EFSC-BrevardZoo.RazorAssemblyInfo.cs
+C:\Development\EFSC-BrevardZoo\EFSC-BrevardZoo\EFSC-BrevardZoo\obj\Debug\netcoreapp2.1\EFSC-BrevardZoo.AssemblyInfoInputs.cache
+C:\Development\EFSC-BrevardZoo\EFSC-BrevardZoo\EFSC-BrevardZoo\obj\Debug\netcoreapp2.1\EFSC-BrevardZoo.AssemblyInfo.cs
+C:\Development\EFSC-BrevardZoo\EFSC-BrevardZoo\EFSC-BrevardZoo\obj\Debug\netcoreapp2.1\EFSC-BrevardZoo.RazorTargetAssemblyInfo.cache
+C:\Development\EFSC-BrevardZoo\EFSC-BrevardZoo\EFSC-BrevardZoo\obj\Debug\netcoreapp2.1\EFSC-BrevardZoo.dll
+C:\Development\EFSC-BrevardZoo\EFSC-BrevardZoo\EFSC-BrevardZoo\obj\Debug\netcoreapp2.1\EFSC-BrevardZoo.pdb
